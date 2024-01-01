@@ -1,0 +1,5 @@
+client:
+  football:
+    baseUrl: ${CLIENT_FOOTBALL_URL:https://v3.football.api-sports.io}
+    host: ${CLIENT_FOOTBALL_HOST:v3.football.api-sports.io}
+  apiKey: ${CLIENT_API_KEY:*******************************}
